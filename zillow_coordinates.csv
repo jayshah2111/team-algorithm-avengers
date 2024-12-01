@@ -1,0 +1,319 @@
+address,price,link,bedrooms,bathrooms,cleaned_address,Latitude,Longitude
+"2240 Lake Shore Blvd W #1701, Toronto, ON M8V 0B1","C$710,000",https://www.zillow.com/homedetails/2240-Lake-Shore-Blvd-W-1701-Toronto-ON-M8V-0B1/2053363438_zpid/,--,--,"2240 Lake Shore Blvd W. , ON",43.6212424,-79.4830236
+"11 Saint Joseph St N, Toronto, ON M4Y 3G4","C$532,000",https://www.zillow.com/homedetails/11-Saint-Joseph-St-N-Toronto-ON-M4Y-3G4/2068823298_zpid/,--,--,"11 Saint Joseph St N., ON",29.9438093,-90.06961959
+"899 Queen St E #409, Toronto, ON M4M 0C8","C$893,000",https://www.zillow.com/homedetails/899-Queen-St-E-409-Toronto-ON-M4M-0C8/2053085401_zpid/,--,--,"899 Queen St E. , ON",43.66051509,-79.34189045
+"49 E Liberty St #2508, Toronto, ON M6K 0A7","C$620,000",https://www.zillow.com/homedetails/49-E-Liberty-St-2508-Toronto-ON-M6K-0A7/2069814767_zpid/,2,1,"49 E. Liberty St , ON",43.638846,-79.412554
+"91 Drayton Ave, Toronto, ON M4C 3L8",$1.22M,https://www.zillow.com/homedetails/91-Drayton-Ave-Toronto-ON-M4C-3L8/2061158114_zpid/,--,--,"91 Drayton Ave, ON",43.68164782,-79.3189335
+"1 Yorkville Ave #4803, Toronto, ON M4W",$1.55M,https://www.zillow.com/homedetails/1-Yorkville-Ave-4803-Toronto-ON-M4W/2071824078_zpid/,2,2,"1 Yorkville Ave , ON",43.67160525,-79.38768444
+"451A Rhodes Ave, Toronto, ON M4L 3A6","C$990,000",https://www.zillow.com/homedetails/451A-Rhodes-Ave-Toronto-ON-M4L-3A6/2055448744_zpid/,--,--,"451A Rhodes Ave, ON",43.68135309,-79.32403165
+"270 Dufferin St #614, Toronto, ON M6K 0H8","C$493,000",https://www.zillow.com/homedetails/270-Dufferin-St-614-Toronto-ON-M6K-0H8/2054154579_zpid/,--,--,"270 Dufferin St , ON",43.837244,-80.846331
+"54 Ormskirk Ave, Toronto, ON M6S 1A9",$1.35M,https://www.zillow.com/homedetails/54-Ormskirk-Ave-Toronto-ON-M6S-1A9/2057167290_zpid/,2,1,"54 Ormskirk Ave, ON",43.63946565,-79.47606966
+"24 Oxhorn Rd, Toronto, ON M1C 3L5",$1.02M,https://www.zillow.com/homedetails/24-Oxhorn-Rd-Toronto-ON-M1C-3L5/2058231762_zpid/,--,--,"24 Oxhorn Rd, ON",43.78455725,-79.13218793
+"6 Epsom Ave, Toronto, ON M4C 2A6",$1.39M,https://www.zillow.com/homedetails/6-Epsom-Ave-Toronto-ON-M4C-2A6/2057369812_zpid/,--,--,"6 Epsom Ave, ON",43.691461,-79.3085332
+"133 Rochman Blvd, Toronto, ON M1H 1S3",$1.25M,https://www.zillow.com/homedetails/133-Rochman-Blvd-Toronto-ON-M1H-1S3/2077203281_zpid/,#NAME?,Not available,"133 Rochman Blvd, ON",43.7635872,-79.2292352
+"191 Atlas Ave, Toronto, ON M6C 3P6",$2.79M,https://www.zillow.com/homedetails/191-Atlas-Ave-Toronto-ON-M6C-3P6/2070784083_zpid/,--,--,"191 Atlas Ave, ON",43.68723896,-79.43312279
+"145 Dean Park Rd, Toronto, ON M1B 2W9","C$900,000",https://www.zillow.com/homedetails/145-Dean-Park-Rd-Toronto-ON-M1B-2W9/2076859552_zpid/,3,3,"145 Dean Park Rd, ON",43.80146149,-79.17610689
+"111 Saint Clair Ave W #705, Toronto, ON M4V 1N5",$1.07M,https://www.zillow.com/homedetails/111-Saint-Clair-Ave-W-705-Toronto-ON-M4V-1N5/2058873590_zpid/,2,2,"111 Saint Clair Ave W. , ON",43.68732725,-79.39606589
+"16 Bonnycastle St #1801, Toronto, ON M5A 0C9","C$815,000",https://www.zillow.com/homedetails/16-Bonnycastle-St-1801-Toronto-ON-M5A-0C9/2080755774_zpid/,1,1,"16 Bonnycastle St , ON",43.64588566,-79.36443497
+"314 Rumsey Rd, Toronto, ON M4G 1R5",$4.00M,https://www.zillow.com/homedetails/314-Rumsey-Rd-Toronto-ON-M4G-1R5/2058437766_zpid/,--,--,"314 Rumsey Rd, ON",43.71580107,-79.37105745
+"25 Rockcastle Dr, Toronto, ON M9R 2V2",$1.63M,https://www.zillow.com/homedetails/25-Rockcastle-Dr-Toronto-ON-M9R-2V2/2058474807_zpid/,3,2,"25 Rockcastle Dr, ON",43.68386943,-79.54834674
+"127 Hillhurst Blvd, Toronto, ON M5N 1N7",$2.41M,https://www.zillow.com/homedetails/127-Hillhurst-Blvd-Toronto-ON-M5N-1N7/2058415014_zpid/,--,--,"127 Hillhurst Blvd, ON",43.7108245,-79.4173164
+"99 Southvale Dr, Toronto, ON M4G 1G4",$1.53M,https://www.zillow.com/homedetails/99-Southvale-Dr-Toronto-ON-M4G-1G4/2058448057_zpid/,--,--,"99 Southvale Dr, ON",43.69911356,-79.36498567
+"194 Pickering St, Toronto, ON M4E 3J8",$1.07M,https://www.zillow.com/homedetails/194-Pickering-St-Toronto-ON-M4E-3J8/2058821200_zpid/,3,2,"194 Pickering St, ON",43.68448547,-79.29179565
+"141 Kingsmount Park Rd, Toronto, ON M4L 3L6",$1.35M,https://www.zillow.com/homedetails/141-Kingsmount-Park-Rd-Toronto-ON-M4L-3L6/2062602696_zpid/,--,--,"141 Kingsmount Park Rd, ON",43.679759,-79.3124827
+"210 Victoria St #3201, Toronto, ON M5B 2R3","C$865,000",https://www.zillow.com/homedetails/210-Victoria-St-3201-Toronto-ON-M5B-2R3/2066646999_zpid/,2,2,"210 Victoria St , ON",43.25596674,-79.07416123
+"34 Durrington Cres, Toronto, ON M1P 4G5",$1.21M,https://www.zillow.com/homedetails/34-Durrington-Cres-Toronto-ON-M1P-4G5/2058405900_zpid/,--,--,"34 Durrington Cres, ON",43.76478497,-79.24970854
+"85 Mortimer Ave, Toronto, ON M4K 2A2",$1.28M,https://www.zillow.com/homedetails/85-Mortimer-Ave-Toronto-ON-M4K-2A2/2058437424_zpid/,--,--,"85 Mortimer Ave, ON",43.68456615,-79.35261325
+"90 Old Sheppard Ave, Toronto, ON M2J 3L5",$1.35M,https://www.zillow.com/homedetails/90-Old-Sheppard-Ave-Toronto-ON-M2J-3L5/2058479535_zpid/,4,2,"90 Old Sheppard Ave, ON",43.7784594,-79.3348002
+"46 McGrath Ct, Toronto, ON M1C 3B5",$1.26M,https://www.zillow.com/homedetails/46-McGrath-Ct-Toronto-ON-M1C-3B5/2059035132_zpid/,4,3,"46 Mcgrath Ct, ON",43.78714404,-79.14820116
+"4 Ashfield Dr, Toronto, ON M9C 4T5",$1.20M,https://www.zillow.com/homedetails/4-Ashfield-Dr-Toronto-ON-M9C-4T5/2058454484_zpid/,--,--,"4 Ashfield Dr, ON",43.6686807,-79.5813952
+"9 McNicoll Ave, Toronto, ON M2H 2A6",$1.68M,https://www.zillow.com/homedetails/9-McNicoll-Ave-Toronto-ON-M2H-2A6/2058415023_zpid/,--,--,"9 Mcnicoll Ave, ON",43.8018007,-79.369397
+"39 Portsmouth Dr, Toronto, ON M1C 5C9",$1.15M,https://www.zillow.com/homedetails/39-Portsmouth-Dr-Toronto-ON-M1C-5C9/2058420542_zpid/,--,--,"39 Portsmouth Dr, ON",43.77562339,-79.14207422
+"36 Kentish Cres, Toronto, ON M1S 2Z4",$1.40M,https://www.zillow.com/homedetails/36-Kentish-Cres-Toronto-ON-M1S-2Z4/2058450762_zpid/,2,1,"36 Kentish Cres, ON",43.78874978,-79.25076318
+"101 Golfview Ave, Toronto, ON M4E 2K3",$1.43M,https://www.zillow.com/homedetails/101-Golfview-Ave-Toronto-ON-M4E-2K3/2058451831_zpid/,--,--,"101 Golfview Ave, ON",43.6792065,-79.307442
+"455 Front St E #S316, Toronto, ON M5A 0G2","C$560,000",https://www.zillow.com/homedetails/455-Front-St-E-S316-Toronto-ON-M5A-0G2/2060697441_zpid/,1,1,"455 Front St E. , ON",43.652873,-79.356605
+"125 Maplewood Ave, Toronto, ON M6C 1J7",$2.31M,https://www.zillow.com/homedetails/125-Maplewood-Ave-Toronto-ON-M6C-1J7/2058450081_zpid/,--,--,"125 Maplewood Ave, ON",44.9598993,-75.6834337
+"53 Amberjack Blvd, Toronto, ON M1H 2J4",$1.19M,https://www.zillow.com/homedetails/53-Amberjack-Blvd-Toronto-ON-M1H-2J4/2060844830_zpid/,--,--,"53 Amberjack Blvd, ON",43.769226,-79.23569743
+"170 Manse Rd, Toronto, ON M1E 3V1",$1.42M,https://www.zillow.com/homedetails/170-Manse-Rd-Toronto-ON-M1E-3V1/2058474833_zpid/,--,--,"170 Manse Rd, ON",43.76411699,-79.17370675
+"20 Blue Jays Way #606, Toronto, ON M5V 3W6","C$875,000",https://www.zillow.com/homedetails/20-Blue-Jays-Way-606-Toronto-ON-M5V-3W6/2060697689_zpid/,--,--,"20 Blue Jays Way , ON",43.64303801,-79.39108031
+"575 Bloor St E #3402, Toronto, ON M4W 0B2",$1.35M,https://www.zillow.com/homedetails/575-Bloor-St-E-3402-Toronto-ON-M4W-0B2/2060332815_zpid/,--,--,"575 Bloor St E. , ON",43.67108041,-79.38292919
+"57 Saint Joseph St #2004, Toronto, ON M5S 0C5","C$545,000",https://www.zillow.com/homedetails/57-Saint-Joseph-St-2004-Toronto-ON-M5S-0C5/2060329412_zpid/,--,--,"57 Saint Joseph St , ON",39.34176171,-85.20482447
+"251 Manitoba St #1123, Toronto, ON M8Y 0C7",$--,https://www.zillow.com/homedetails/251-Manitoba-St-1123-Toronto-ON-M8Y-0C7/2065558676_zpid/,--,--,"251 Manitoba St , ON",43.6241538,-79.4878569
+"169 Fort York Blvd #518, Toronto, ON M5V 0C8","C$500,000",https://www.zillow.com/homedetails/169-Fort-York-Blvd-518-Toronto-ON-M5V-0C8/2072237245_zpid/,1,1,"169 Fort York Blvd , ON",43.6382802,-79.4011498
+"170 Bayview Ave #703, Toronto, ON M5A 0M4","C$478,500",https://www.zillow.com/homedetails/170-Bayview-Ave-703-Toronto-ON-M5A-0M4/2060617384_zpid/,--,--,"170 Bayview Ave , ON",43.655417,-79.35399912
+"5580 Sheppard Ave E #906, Toronto, ON M1B 2L3","C$490,000",https://www.zillow.com/homedetails/5580-Sheppard-Ave-E-906-Toronto-ON-M1B-2L3/2061171534_zpid/,--,--,"5580 Sheppard Ave E. , ON",43.79461855,-79.23729384
+"20 Minowan Miikan Ln, Toronto, ON M6J 0E5",$--,https://www.zillow.com/homedetails/20-Minowan-Miikan-Ln-Toronto-ON-M6J-0E5/2079631255_zpid/,1,1,"20 Minowan Miikan Ln, ON",43.6431587,-79.42825109
+"65 Allangrove Cres, Toronto, ON M1W 1S4",$1.38M,https://www.zillow.com/homedetails/65-Allangrove-Cres-Toronto-ON-M1W-1S4/2061345484_zpid/,--,--,"65 Allangrove Cres, ON",43.79043407,-79.31445632
+"223 Downsview Park Blvd, Toronto, ON M3K 0A5",$1.17M,https://www.zillow.com/homedetails/223-Downsview-Park-Blvd-Toronto-ON-M3K-0A5/2061308242_zpid/,--,--,"223 Downsview Park Blvd, ON",43.73625913,-79.47906381
+"181 Wineva Ave, Toronto, ON M4E 2T5",$1.85M,https://www.zillow.com/homedetails/181-Wineva-Ave-Toronto-ON-M4E-2T5/2061324716_zpid/,--,--,"181 Wineva Ave, ON",43.67259202,-79.29622667
+"20 Lytton Blvd, Toronto, ON M4R 1L1",$3.64M,https://www.zillow.com/homedetails/20-Lytton-Blvd-Toronto-ON-M4R-1L1/2061324723_zpid/,6,3,"20 Lytton Blvd, ON",43.71625272,-79.40176261
+"147 Westminster Ave, Toronto, ON M6R 1N8",$2.26M,https://www.zillow.com/homedetails/147-Westminster-Ave-Toronto-ON-M6R-1N8/2061308239_zpid/,4,2,"147 Westminster Ave, ON",43.64653285,-79.45192878
+"66 Roxborough St E #101, Toronto, ON M4W 1V7",$1.64M,https://www.zillow.com/homedetails/66-Roxborough-St-E-101-Toronto-ON-M4W-1V7/2067831476_zpid/,1,1,"66 Roxborough St E. , ON",43.67881732,-79.38534483
+"701 Shaw St, Toronto, ON M6G 3L8",$2.40M,https://www.zillow.com/homedetails/701-Shaw-St-Toronto-ON-M6G-3L8/2070738855_zpid/,5,5,"701 Shaw St, ON",43.66112792,-79.42255524
+"24 Forman Ave, Toronto, ON M4S 2R2",$1.65M,https://www.zillow.com/homedetails/24-Forman-Ave-Toronto-ON-M4S-2R2/2061308251_zpid/,--,--,"24 Forman Ave, ON",43.7014497,-79.3806274
+"29 Temple Bar Cres, Toronto, ON M1W 2B4",$1.40M,https://www.zillow.com/homedetails/29-Temple-Bar-Cres-Toronto-ON-M1W-2B4/2061561554_zpid/,4,4,"29 Temple Bar Cres, ON",43.79151161,-79.30367739
+"33 Sandyhook Sq, Toronto, ON M1W 3N6",$1.01M,https://www.zillow.com/homedetails/33-Sandyhook-Sq-Toronto-ON-M1W-3N6/2061324717_zpid/,4,4,"33 Sandyhook Sq, ON",43.81807762,-79.31992188
+"104 Strathallan Blvd, Toronto, ON M5N 1S7",$3.70M,https://www.zillow.com/homedetails/104-Strathallan-Blvd-Toronto-ON-M5N-1S7/2061481775_zpid/,--,--,"104 Strathallan Blvd, ON",43.71428396,-79.41543788
+"23 Pintail Cres, Toronto, ON M3A 2Y6","C$910,000",https://www.zillow.com/homedetails/23-Pintail-Cres-Toronto-ON-M3A-2Y6/2061253795_zpid/,--,--,"23 Pintail Cres, ON",43.76122916,-79.31872373
+"33 Welland Ave, Toronto, ON M4T 2H8",$4.05M,https://www.zillow.com/homedetails/33-Welland-Ave-Toronto-ON-M4T-2H8/2061481774_zpid/,--,--,"33 Welland Ave, ON",43.6894515,-79.3787901
+"59 Linnsmore Cres, Toronto, ON M4J 4J9",$1.70M,https://www.zillow.com/homedetails/59-Linnsmore-Cres-Toronto-ON-M4J-4J9/2062594275_zpid/,3,2,"59 Linnsmore Cres, ON",43.68431008,-79.33048553
+"68 Alamosa Dr, Toronto, ON M2J 2N9",$1.70M,https://www.zillow.com/homedetails/68-Alamosa-Dr-Toronto-ON-M2J-2N9/2061248701_zpid/,--,--,"68 Alamosa Dr, ON",43.78386237,-79.37478662
+"55 De Boers Dr #511, Toronto, ON M3J 0G5",$--,https://www.zillow.com/homedetails/55-De-Boers-Dr-511-Toronto-ON-M3J-0G5/2062492601_zpid/,--,--,"55 De Boers Dr , ON",43.75102385,-79.46579405
+"16 Dalbeattie Ave, Toronto, ON M9N 2Y5",$1.17M,https://www.zillow.com/homedetails/16-Dalbeattie-Ave-Toronto-ON-M9N-2Y5/2061303268_zpid/,--,--,"16 Dalbeattie Ave, ON",43.70950115,-79.5129535
+"16 Sheffley Cres, Toronto, ON M9R 2W4",$2.00M,https://www.zillow.com/homedetails/16-Sheffley-Cres-Toronto-ON-M9R-2W4/2061456753_zpid/,--,--,"16 Sheffley Cres, ON",43.68443787,-79.5501062
+"87 Greenwood Ave, Toronto, ON M4L 2P7",$1.41M,https://www.zillow.com/homedetails/87-Greenwood-Ave-Toronto-ON-M4L-2P7/2062334739_zpid/,3,3,"87 Greenwood Ave, ON",43.6669483,-79.32616865
+"1016 Pharmacy Ave, Toronto, ON M1R 2G9","C$943,000",https://www.zillow.com/homedetails/1016-Pharmacy-Ave-Toronto-ON-M1R-2G9/2061229944_zpid/,--,--,"1016 Pharmacy Ave, ON",43.73814837,-79.30275753
+"1101 Steeles Ave W #101, Toronto, ON M2R 3W5","C$626,000",https://www.zillow.com/homedetails/1101-Steeles-Ave-W-101-Toronto-ON-M2R-3W5/2071811638_zpid/,1,1,"1101 Steeles Ave W. , ON",43.79046785,-79.44815929
+"15 Mystic Ave, Toronto, ON M1L 4G6",$1.04M,https://www.zillow.com/homedetails/15-Mystic-Ave-Toronto-ON-M1L-4G6/2066521659_zpid/,2,1,"15 Mystic Ave, ON",43.696559,-79.27082483
+"2002 Brimley Rd, Toronto, ON M1S 2B2",$1.72M,https://www.zillow.com/homedetails/2002-Brimley-Rd-Toronto-ON-M1S-2B2/2071883793_zpid/,--,--,"2002 Brimley Rd, ON",43.78734172,-79.26834525
+"191 Rankin Cres, Toronto, ON M6P 4H8",$1.37M,https://www.zillow.com/homedetails/191-Rankin-Cres-Toronto-ON-M6P-4H8/2061288857_zpid/,--,--,"191 Rankin Cres, ON",43.66084507,-79.44700154
+"22 Minho Blvd, Toronto, ON M6G 4B5",$1.62M,https://www.zillow.com/homedetails/22-Minho-Blvd-Toronto-ON-M6G-4B5/2061333828_zpid/,--,--,"22 Minho Blvd, ON",43.67280527,-79.42853973
+"38B Summerhill Gdns, Toronto, ON M4T 1B4",$1.61M,https://www.zillow.com/homedetails/38B-Summerhill-Gdns-Toronto-ON-M4T-1B4/2063050018_zpid/,--,--,"38B Summerhill Gdns, ON",43.68491548,-79.3869774
+"831A Millwood Rd, Toronto, ON M4G 1W5",$1.53M,https://www.zillow.com/homedetails/831A-Millwood-Rd-Toronto-ON-M4G-1W5/2061261289_zpid/,--,--,"831A Millwood Rd, ON",43.70274194,-79.3623988
+"17 Edith Ave, Toronto, ON M6P 3T5",$1.37M,https://www.zillow.com/homedetails/17-Edith-Ave-Toronto-ON-M6P-3T5/2061303233_zpid/,--,--,"17 Edith Ave, ON",43.66584941,-79.45514072
+"74 Wanita Rd, Toronto, ON M1C 1V4",$1.83M,https://www.zillow.com/homedetails/74-Wanita-Rd-Toronto-ON-M1C-1V4/2061333813_zpid/,--,--,"74 Wanita Rd, ON",43.7799177,-79.151357
+"20 Iangrove Ter, Toronto, ON M1W 2H2",$1.15M,https://www.zillow.com/homedetails/20-Iangrove-Ter-Toronto-ON-M1W-2H2/2061573002_zpid/,--,--,"20 Iangrove Ter, ON",43.80085452,-79.33400827
+"72 Angus Dr, Toronto, ON M2J 2X1",$1.45M,https://www.zillow.com/homedetails/72-Angus-Dr-Toronto-ON-M2J-2X1/2061602949_zpid/,--,--,"72 Angus Dr, ON",43.7883309,-79.367066
+"100 Bethany Leigh Dr, Toronto, ON M1V 2N7",$1.08M,https://www.zillow.com/homedetails/100-Bethany-Leigh-Dr-Toronto-ON-M1V-2N7/2061244468_zpid/,3,3,"100 Bethany Leigh Dr, ON",43.81084327,-79.25904323
+"56 Calverley Trl, Toronto, ON M1C 3R5",$1.13M,https://www.zillow.com/homedetails/56-Calverley-Trl-Toronto-ON-M1C-3R5/2061280260_zpid/,--,--,"56 Calverley Trl, ON",43.79124531,-79.17993056
+"650 King St W #407, Toronto, ON M5V 0H6","C$715,000",https://www.zillow.com/homedetails/650-King-St-W-407-Toronto-ON-M5V-0H6/2061573053_zpid/,--,--,"650 King St W. , ON",44.22072033,-76.51802656
+"2 Hemford Cres, Toronto, ON M3B 2S5",$1.48M,https://www.zillow.com/homedetails/2-Hemford-Cres-Toronto-ON-M3B-2S5/2065418982_zpid/,--,--,"2 Hemford Cres, ON",43.7407903,-79.3516433
+"70 Allen Ave, Toronto, ON M4M 1T4",$1.10M,https://www.zillow.com/homedetails/70-Allen-Ave-Toronto-ON-M4M-1T4/2061308269_zpid/,--,--,"70 Allen Ave, ON",43.6637996,-79.34874154
+"168 Ridgewood Rd, Toronto, ON M1C 2X2",$1.50M,https://www.zillow.com/homedetails/168-Ridgewood-Rd-Toronto-ON-M1C-2X2/2061345480_zpid/,--,--,"168 Ridgewood Rd, ON",43.78753178,-79.12946113
+"84 Stafford St, Toronto, ON M6J 2S1",$1.93M,https://www.zillow.com/homedetails/84-Stafford-St-Toronto-ON-M6J-2S1/2061319346_zpid/,--,--,"84 Stafford St, ON",43.64391953,-79.4115567
+"15 La Rose Ave #511, Toronto, ON M9P 1A7","C$695,000",https://www.zillow.com/homedetails/15-La-Rose-Ave-511-Toronto-ON-M9P-1A7/2061805289_zpid/,--,--,"15 La Rose Ave , ON",43.6863075,-79.51416695
+"33 Gemshaw Cres, Toronto, ON M1B 1L3",$1.03M,https://www.zillow.com/homedetails/33-Gemshaw-Cres-Toronto-ON-M1B-1L3/2063105403_zpid/,--,--,"33 Gemshaw Cres, ON",43.79984956,-79.21245647
+"102 Bellefair Ave, Toronto, ON M4L 3T8",$2.95M,https://www.zillow.com/homedetails/102-Bellefair-Ave-Toronto-ON-M4L-3T8/2062254947_zpid/,--,--,"102 Bellefair Ave, ON",43.67372232,-79.30146208
+"15 Allingham Gdns, Toronto, ON M3H 1X7",$1.20M,https://www.zillow.com/homedetails/15-Allingham-Gdns-Toronto-ON-M3H-1X7/2063391946_zpid/,--,--,"15 Allingham Gdns, ON",43.74001483,-79.43632946
+"19 Nortonville Dr, Toronto, ON M1T 2G9",$1.53M,https://www.zillow.com/homedetails/19-Nortonville-Dr-Toronto-ON-M1T-2G9/2066432012_zpid/,4,4,"19 Nortonville Dr, ON",43.78170289,-79.30654428
+"35 Cedar Brae Blvd, Toronto, ON M1J 2K4",$1.10M,https://www.zillow.com/homedetails/35-Cedar-Brae-Blvd-Toronto-ON-M1J-2K4/2062006173_zpid/,4,4,"35 Cedar Brae Blvd, ON",43.74425933,-79.23360966
+"16 Elfindale Cres, Toronto, ON M2J 1B5",$1.64M,https://www.zillow.com/homedetails/16-Elfindale-Cres-Toronto-ON-M2J-1B5/2062158628_zpid/,4,3,"16 Elfindale Cres, ON",43.76930746,-79.35411123
+"72 Tidefall Dr, Toronto, ON M1W 1J2",$1.17M,https://www.zillow.com/homedetails/72-Tidefall-Dr-Toronto-ON-M1W-1J2/2062204070_zpid/,--,--,"72 Tidefall Dr, ON",43.78351454,-79.31874799
+"268 Belsize Dr, Toronto, ON M4S 1M6",$1.37M,https://www.zillow.com/homedetails/268-Belsize-Dr-Toronto-ON-M4S-1M6/2069565569_zpid/,--,--,"268 Belsize Dr, ON",43.70379073,-79.38268108
+"42 Ardgowan Cres, Toronto, ON M1V 1B3","C$900,000",https://www.zillow.com/homedetails/42-Ardgowan-Cres-Toronto-ON-M1V-1B3/2062202900_zpid/,3,3,"42 Ardgowan Cres, ON",43.81180369,-79.27168071
+"5 Applefield Dr, Toronto, ON M1P 3X8","C$999,000",https://www.zillow.com/homedetails/5-Applefield-Dr-Toronto-ON-M1P-3X8/2062598177_zpid/,2,1,"5 Applefield Dr, ON",43.76218641,-79.25907763
+"53 Sunnycrest Rd, Toronto, ON M2R 1V4",$1.43M,https://www.zillow.com/homedetails/53-Sunnycrest-Rd-Toronto-ON-M2R-1V4/2071845635_zpid/,--,--,"53 Sunnycrest Rd, ON",43.78545054,-79.45575538
+"94 Nettlecreek Cres, Toronto, ON M1V 4K9",$1.31M,https://www.zillow.com/homedetails/94-Nettlecreek-Cres-Toronto-ON-M1V-4K9/2062485962_zpid/,5,4,"94 Nettlecreek Cres, ON",43.82504876,-79.28317444
+"1223 Pharmacy Ave, Toronto, ON M1R 2H8","C$831,100",https://www.zillow.com/homedetails/1223-Pharmacy-Ave-Toronto-ON-M1R-2H8/2062054977_zpid/,3,2,"1223 Pharmacy Ave, ON",43.74777506,-79.30625769
+"4 Bridgewater Rd, Toronto, ON M9A 2Z3",$3.40M,https://www.zillow.com/homedetails/4-Bridgewater-Rd-Toronto-ON-M9A-2Z3/2062241871_zpid/,--,--,"4 Bridgewater Rd, ON",43.6612968,-79.5246267
+"116 Drayton Ave, Toronto, ON M4C 3L9",$1.13M,https://www.zillow.com/homedetails/116-Drayton-Ave-Toronto-ON-M4C-3L9/2062100873_zpid/,--,--,"116 Drayton Ave, ON",43.68229361,-79.31955366
+"33 Ardmore Rd, Toronto, ON M5P 1V8",$3.76M,https://www.zillow.com/homedetails/33-Ardmore-Rd-Toronto-ON-M5P-1V8/2062195176_zpid/,--,--,"33 Ardmore Rd, ON",43.6943169,-79.4190861
+"32 Enchanted Hills Cres, Toronto, ON M1V 3P2",$1.10M,https://www.zillow.com/homedetails/32-Enchanted-Hills-Cres-Toronto-ON-M1V-3P2/2062736369_zpid/,6,4,"32 Enchanted Hills Cres, ON",43.8282795,-79.27809219
+"45 Prince Philip Blvd, Toronto, ON M1E 1J4","C$999,900",https://www.zillow.com/homedetails/45-Prince-Philip-Blvd-Toronto-ON-M1E-1J4/2062171912_zpid/,--,--,"45 Prince Philip Blvd, ON",43.7433776,-79.2025527
+"37 Lewis St, Toronto, ON M4M 2H2",$1.35M,https://www.zillow.com/homedetails/37-Lewis-St-Toronto-ON-M4M-2H2/2062671893_zpid/,--,--,"37 Lewis St, ON",42.9823145,-79.2338335
+"7 Minto St, Toronto, ON M4L 1B5","C$999,999",https://www.zillow.com/homedetails/7-Minto-St-Toronto-ON-M4L-1B5/2063141075_zpid/,--,--,"7 Minto St, ON",43.66350323,-79.3243528
+"9 Sonneck Sq, Toronto, ON M1E 1A8",$1.40M,https://www.zillow.com/homedetails/9-Sonneck-Sq-Toronto-ON-M1E-1A8/2062192628_zpid/,4,2,"9 Sonneck Sq, ON",43.74102986,-79.20204853
+"24 Caribou Rd, Toronto, ON M5N 2A3",$4.50M,https://www.zillow.com/homedetails/24-Caribou-Rd-Toronto-ON-M5N-2A3/2062219042_zpid/,7,4,"24 Caribou Rd, ON",43.7203981,-79.4178885
+"8 Eastlea Cres, Toronto, ON M1T 3A6",$1.10M,https://www.zillow.com/homedetails/8-Eastlea-Cres-Toronto-ON-M1T-3A6/2062228910_zpid/,3,3,"8 Eastlea Cres, ON",43.79626752,-79.30098854
+"166 Gristone Cres, Toronto, ON M1X 1T4","C$800,000",https://www.zillow.com/homedetails/166-Gristone-Cres-Toronto-ON-M1X-1T4/2062216868_zpid/,3,3,"166 Gristone Cres, ON",43.82514595,-79.21337149
+"56 Greybeaver Trl, Toronto, ON M1C 4N6",$1.10M,https://www.zillow.com/homedetails/56-Greybeaver-Trl-Toronto-ON-M1C-4N6/2062248646_zpid/,--,--,"56 Greybeaver Trl, ON",43.78739373,-79.12676226
+"25 Muirdale Ave, Toronto, ON M9R 2V3",$1.61M,https://www.zillow.com/homedetails/25-Muirdale-Ave-Toronto-ON-M9R-2V3/2062228605_zpid/,--,--,"25 Muirdale Ave, ON",43.68363534,-79.54936357
+"219 Richview Ave, Toronto, ON M5P 3G2",$3.45M,https://www.zillow.com/homedetails/219-Richview-Ave-Toronto-ON-M5P-3G2/2062228627_zpid/,5,6,"219 Richview Ave, ON",43.6950935,-79.42155944
+"38 Noranda Dr, Toronto, ON M6M 2X9",$1.63M,https://www.zillow.com/homedetails/38-Noranda-Dr-Toronto-ON-M6M-2X9/2062144956_zpid/,--,--,"38 Noranda Dr, ON",43.70073042,-79.49084799
+"53 Challenger Ct, Toronto, ON M1C 4Z4",$1.49M,https://www.zillow.com/homedetails/53-Challenger-Ct-Toronto-ON-M1C-4Z4/2062211644_zpid/,--,--,"53 Challenger Ct, ON",43.78900092,-79.18442341
+"80 Crayford Dr, Toronto, ON M1W 3B6",$1.19M,https://www.zillow.com/homedetails/80-Crayford-Dr-Toronto-ON-M1W-3B6/2062241908_zpid/,--,--,"80 Crayford Dr, ON",43.81496058,-79.33481965
+"74 Brentcliffe Rd, Toronto, ON M4G 3Y6",$1.89M,https://www.zillow.com/homedetails/74-Brentcliffe-Rd-Toronto-ON-M4G-3Y6/2062350203_zpid/,--,--,"74 Brentcliffe Rd, ON",43.7167936,-79.3612808
+"6 Tripp Cres, Toronto, ON M1P 1B5",$1.03M,https://www.zillow.com/homedetails/6-Tripp-Cres-Toronto-ON-M1P-1B5/2062267621_zpid/,--,--,"6 Tripp Cres, ON",43.74246785,-79.28016051
+"196 Lawrence Ave W, Toronto, ON M5M 1A8",$1.23M,https://www.zillow.com/homedetails/196-Lawrence-Ave-W-Toronto-ON-M5M-1A8/2062539387_zpid/,3,3,"196 Lawrence Ave W., ON",43.72342411,-79.41083582
+"1128 Woodbine Ave, Toronto, ON M4C 4C8",$1.02M,https://www.zillow.com/homedetails/1128-Woodbine-Ave-Toronto-ON-M4C-4C8/2062171909_zpid/,--,--,"1128 Woodbine Ave, ON",43.689743,-79.314682
+"20 Snowberry Ave, Toronto, ON M9N 3G4",$1.04M,https://www.zillow.com/homedetails/20-Snowberry-Ave-Toronto-ON-M9N-3G4/2062170759_zpid/,3,2,"20 Snowberry Ave, ON",43.71320643,-79.52065483
+"16 Alderbrook Dr, Toronto, ON M3B 1E4",$3.80M,https://www.zillow.com/homedetails/16-Alderbrook-Dr-Toronto-ON-M3B-1E4/2062241905_zpid/,--,--,"16 Alderbrook Dr, ON",43.7375644,-79.3651415
+"7 Stainforth Dr, Toronto, ON M1S 1L9",$1.35M,https://www.zillow.com/homedetails/7-Stainforth-Dr-Toronto-ON-M1S-1L9/2062100870_zpid/,--,--,"7 Stainforth Dr, ON",43.7926318,-79.2856401
+"268 Saint Germain Ave, Toronto, ON M5M 1W3",$1.90M,https://www.zillow.com/homedetails/268-Saint-Germain-Ave-Toronto-ON-M5M-1W3/2062386364_zpid/,4,2,"268 Saint Germain Ave, ON",30.44019062,-90.10816401
+"39 Hillfarm Dr, Toronto, ON M1V 3C6",$1.39M,https://www.zillow.com/homedetails/39-Hillfarm-Dr-Toronto-ON-M1V-3C6/2062204051_zpid/,--,--,"39 Hillfarm Dr, ON",43.8258665,-79.2708025
+"7 Weetwood St, Toronto, ON M5M 4C9",$3.20M,https://www.zillow.com/homedetails/7-Weetwood-St-Toronto-ON-M5M-4C9/2063373854_zpid/,--,--,"7 Weetwood St, ON",43.7315351,-79.4210635
+"5 Astoria Ave, Toronto, ON M6N 2V5","C$715,000",https://www.zillow.com/homedetails/5-Astoria-Ave-Toronto-ON-M6N-2V5/2062171889_zpid/,3,1,"5 Astoria Ave, ON",43.68456948,-79.49030937
+"180 Holborne Ave, Toronto, ON M4C 2R8",$1.35M,https://www.zillow.com/homedetails/180-Holborne-Ave-Toronto-ON-M4C-2R8/2071828801_zpid/,4,4,"180 Holborne Ave, ON",43.6953725,-79.31618071
+"21 Gardentree St, Toronto, ON M1E 2E8","C$850,000",https://www.zillow.com/homedetails/21-Gardentree-St-Toronto-ON-M1E-2E8/2062242594_zpid/,3,2,"21 Gardentree St, ON",43.75812092,-79.18636438
+"20 Brooklawn Ave, Toronto, ON M1M 2P4",$1.06M,https://www.zillow.com/homedetails/20-Brooklawn-Ave-Toronto-ON-M1M-2P4/2062647050_zpid/,2,2,"20 Brooklawn Ave, ON",43.71518668,-79.23311308
+"125 Village Green Sq #1806, Toronto, ON M1S 0G3","C$540,000",https://www.zillow.com/homedetails/125-Village-Green-Sq-1806-Toronto-ON-M1S-0G3/2062861015_zpid/,1,1,"125 Village Green Sq , ON",43.7774165,-79.2812115
+"3 Mossbrook Cres, Toronto, ON M1W 2W8",$1.25M,https://www.zillow.com/homedetails/3-Mossbrook-Cres-Toronto-ON-M1W-2W8/2062115147_zpid/,2,1,"3 Mossbrook Cres, ON",43.80907015,-79.32569825
+"55 Seamist Cres, Toronto, ON M1V 3K3","C$855,000",https://www.zillow.com/homedetails/55-Seamist-Cres-Toronto-ON-M1V-3K3/2062258005_zpid/,3,2,"55 Seamist Cres, ON",43.8277795,-79.2743905
+"52 Elm Grove Ave, Toronto, ON M6K 2J3",$1.50M,https://www.zillow.com/homedetails/52-Elm-Grove-Ave-Toronto-ON-M6K-2J3/2062153026_zpid/,--,--,"52 Elm Grove Ave, ON",43.64063075,-79.43144828
+"9 Gunton Dr, Toronto, ON M9W 3G9",$1.14M,https://www.zillow.com/homedetails/9-Gunton-Dr-Toronto-ON-M9W-3G9/2062241891_zpid/,--,--,"9 Gunton Dr, ON",43.72494105,-79.5767888
+"174 Windermere Ave, Toronto, ON M6S 3J7",$1.44M,https://www.zillow.com/homedetails/174-Windermere-Ave-Toronto-ON-M6S-3J7/2062255493_zpid/,4,4,"174 Windermere Ave, ON",43.642384,-79.47623952
+"43 Culnan Ave, Toronto, ON M8Z 5B1","C$999,000",https://www.zillow.com/homedetails/43-Culnan-Ave-Toronto-ON-M8Z-5B1/2062584766_zpid/,--,--,"43 Culnan Ave, ON",43.62415854,-79.52524846
+"30 Western Battery Rd #329, Toronto, ON M6K 3N9","C$760,000",https://www.zillow.com/homedetails/30-Western-Battery-Rd-329-Toronto-ON-M6K-3N9/2063444291_zpid/,--,--,"30 Western Battery Rd , ON",43.6396442,-79.41247211
+"115 Neames Cres, Toronto, ON M3L 1K8","C$875,000",https://www.zillow.com/homedetails/115-Neames-Cres-Toronto-ON-M3L-1K8/2062481190_zpid/,--,--,"115 Neames Cres, ON",43.72870342,-79.5126524
+"80 Castlebury Cres #3, Toronto, ON M2H 1W8",$--,https://www.zillow.com/homedetails/80-Castlebury-Cres-3-Toronto-ON-M2H-1W8/2065457975_zpid/,--,--,"80 Castlebury Cres , ON",43.7968787,-79.3716559
+"691 Eglinton Ave E, Toronto, ON M4G 2K6",$1.31M,https://www.zillow.com/homedetails/691-Eglinton-Ave-E-Toronto-ON-M4G-2K6/2062172371_zpid/,3,3,"691 Eglinton Ave E., ON",43.71232249,-79.37021141
+"310 Patricia Ave, Toronto, ON M2R 2M5",$1.36M,https://www.zillow.com/homedetails/310-Patricia-Ave-Toronto-ON-M2R-2M5/2062241912_zpid/,3,2,"310 Patricia Ave, ON",43.787067,-79.43307796
+"65 George Appleton Way #2087, Toronto, ON M3M 0A2","C$525,000",https://www.zillow.com/homedetails/65-George-Appleton-Way-2087-Toronto-ON-M3M-0A2/2063304548_zpid/,--,--,"65 George Appleton Way , ON",43.72517326,-79.48101946
+"7 Salisbury Ave, Toronto, ON M4X 1C3",$1.50M,https://www.zillow.com/homedetails/7-Salisbury-Ave-Toronto-ON-M4X-1C3/2063509468_zpid/,3,3,"7 Salisbury Ave, ON",43.6668665,-79.3669443
+"552 McLevin Ave, Toronto, ON M1B 4H4",$1.02M,https://www.zillow.com/homedetails/552-McLevin-Ave-Toronto-ON-M1B-4H4/2062376988_zpid/,--,--,"552 Mclevin Ave, ON",43.81066952,-79.2144469
+"2550 Pharmacy Ave #1610, Toronto, ON M1W 1H9","C$555,000",https://www.zillow.com/homedetails/2550-Pharmacy-Ave-1610-Toronto-ON-M1W-1H9/2078203557_zpid/,2,1,"2550 Pharmacy Ave , ON",43.793313,-79.32616422
+"360 Rhodes Ave, Toronto, ON M4L 3A3",$1.83M,https://www.zillow.com/homedetails/360-Rhodes-Ave-Toronto-ON-M4L-3A3/2063172568_zpid/,3,3,"360 Rhodes Ave, ON",43.6746644,-79.3213575
+"21 Greenock Ave, Toronto, ON M1G 2Z7",$1.27M,https://www.zillow.com/homedetails/21-Greenock-Ave-Toronto-ON-M1G-2Z7/2065458038_zpid/,--,--,"21 Greenock Ave, ON",43.7723227,-79.2175639
+"103 The Queensway #815, Toronto, ON M6S 5B3","C$667,000",https://www.zillow.com/homedetails/103-The-Queensway-815-Toronto-ON-M6S-5B3/2063508857_zpid/,2,1,"103 The Queensway , ON",43.63629085,-79.47037419
+"33 Empress Ave #1511, Toronto, ON M2N 6Y7",$1.07M,https://www.zillow.com/homedetails/33-Empress-Ave-1511-Toronto-ON-M2N-6Y7/2065551164_zpid/,2,2,"33 Empress Ave , ON",43.7692802,-79.4126333
+"223 Saint Clair Ave W, Toronto, ON M4V 1R4","C$645,000",https://www.zillow.com/homedetails/223-Saint-Clair-Ave-W-Toronto-ON-M4V-1R4/2080848207_zpid/,2,2,"223 Saint Clair Ave W., ON",43.68732725,-79.39606589
+"21 Shaftesbury Ave #301, Toronto, ON M4T 3B4",$1.45M,https://www.zillow.com/homedetails/21-Shaftesbury-Ave-301-Toronto-ON-M4T-3B4/2063243533_zpid/,--,--,"21 Shaftesbury Ave , ON",43.6819434,-79.39046612
+"55 Regent Park Blvd #105, Toronto, ON M5A 0C2",$1.16M,https://www.zillow.com/homedetails/55-Regent-Park-Blvd-105-Toronto-ON-M5A-0C2/2064116822_zpid/,3,2,"55 Regent Park Blvd , ON",43.65975063,-79.36154636
+"55 Regent Park Blvd #2402, Toronto, ON M5A 0C2","C$902,800",https://www.zillow.com/homedetails/55-Regent-Park-Blvd-2402-Toronto-ON-M5A-0C2/2065622840_zpid/,2,2,"55 Regent Park Blvd , ON",43.65975063,-79.36154636
+"19 Valhalla Inn Rd #TOWNHOUSE, Toronto, ON M9B 0B3",$--,https://www.zillow.com/homedetails/19-Valhalla-Inn-Rd-TOWNHOUSE-Toronto-ON-M9B-0B3/2065806184_zpid/,3,3,"19 Valhalla Inn Rd , ON",43.6411796,-79.55901145
+"390 Cherry St #1610, Toronto, ON M5A 0E2",$1.11M,https://www.zillow.com/homedetails/390-Cherry-St-1610-Toronto-ON-M5A-0E2/2063265892_zpid/,2,2,"390 Cherry St , ON",43.651154,-79.3574988
+"4673 Jane St #610, Toronto, ON M3N 2L1","C$289,900",https://www.zillow.com/homedetails/4673-Jane-St-610-Toronto-ON-M3N-2L1/2063454329_zpid/,--,--,"4673 Jane St , ON",43.77017,-79.51999369
+"70 Gypsy Roseway, Toronto, ON M2N 5Y9",$1.36M,https://www.zillow.com/homedetails/70-Gypsy-Roseway-Toronto-ON-M2N-5Y9/2063274274_zpid/,--,--,"70 Gypsy Roseway, ON",43.76410744,-79.39539424
+"825 Church St #812, Toronto, ON M4W 3Z4",$1.48M,https://www.zillow.com/homedetails/825-Church-St-812-Toronto-ON-M4W-3Z4/2063228772_zpid/,--,--,"825 Church St , ON",43.6729841,-79.38688035
+"43 Hanna Ave #104, Toronto, ON M6K 1X1",$1.90M,https://www.zillow.com/homedetails/43-Hanna-Ave-104-Toronto-ON-M6K-1X1/2071489401_zpid/,--,--,"43 Hanna Ave , ON",43.63901145,-79.41892578
+"222 The Esplanade #1224, Toronto, ON M5A 4M8","C$730,000",https://www.zillow.com/homedetails/222-The-Esplanade-1224-Toronto-ON-M5A-4M8/2066397348_zpid/,1,1,"222 The Esplanade , ON",43.6495974,-79.3654009
+"326 Carlaw Ave #117, Toronto, ON M4M 3N8",$1.39M,https://www.zillow.com/homedetails/326-Carlaw-Ave-117-Toronto-ON-M4M-3N8/2063304455_zpid/,2,2,"326 Carlaw Ave , ON",43.66441004,-79.3416203
+"11 Downing St, Toronto, ON M9B 1E9",$3.38M,https://www.zillow.com/homedetails/11-Downing-St-Toronto-ON-M9B-1E9/2064264028_zpid/,--,--,"11 Downing St, ON",43.6359035,-79.54445652
+"276 Hastings Ave, Toronto, ON M4L 2M1",$1.80M,https://www.zillow.com/homedetails/276-Hastings-Ave-Toronto-ON-M4L-2M1/2071833805_zpid/,--,--,"276 Hastings Ave, ON",43.6713964,-79.3323678
+"93 Allanhurst Dr, Toronto, ON M9A 4K3",$2.10M,https://www.zillow.com/homedetails/93-Allanhurst-Dr-Toronto-ON-M9A-4K3/2064208958_zpid/,--,--,"93 Allanhurst Dr, ON",43.679623,-79.5191478
+"17 Curzon St, Toronto, ON M4M 3B3",$1.71M,https://www.zillow.com/homedetails/17-Curzon-St-Toronto-ON-M4M-3B3/2064279500_zpid/,--,--,"17 Curzon St, ON",43.66367483,-79.33156983
+"65 Tilden Cres, Toronto, ON M9P 1V8",$1.65M,https://www.zillow.com/homedetails/65-Tilden-Cres-Toronto-ON-M9P-1V8/2071820950_zpid/,4,3,"65 Tilden Cres, ON",43.69520302,-79.51525087
+"140 Woodycrest Ave, Toronto, ON M4J 3B6",$1.71M,https://www.zillow.com/homedetails/140-Woodycrest-Ave-Toronto-ON-M4J-3B6/2071893945_zpid/,--,--,"140 Woodycrest Ave, ON",43.6853859,-79.3440538
+"5 Bernice Ave, Toronto, ON M8Y 1Z5",$1.90M,https://www.zillow.com/homedetails/5-Bernice-Ave-Toronto-ON-M8Y-1Z5/2064270856_zpid/,4,3,"5 Bernice Ave, ON",43.63796288,-79.49992923
+"10 Northtown Way #1807, Toronto, ON M2N 7L4","C$730,000",https://www.zillow.com/homedetails/10-Northtown-Way-1807-Toronto-ON-M2N-7L4/2065399166_zpid/,1,1,"10 Northtown Way , ON",43.7757846,-79.41324472
+"1 1/2 Montrose Ave, Toronto, ON M6J 2T6",$1.75M,https://www.zillow.com/homedetails/1-1-2-Montrose-Ave-Toronto-ON-M6J-2T6/2081979610_zpid/,1,1,"1 1/2 Montrose Ave, ON",43.65275862,-79.4169266
+"500 Richmond St W #119, Toronto, ON M5V 3N4",$1.10M,https://www.zillow.com/homedetails/500-Richmond-St-W-119-Toronto-ON-M5V-3N4/2063305005_zpid/,2,1,"500 Richmond St W. , ON",43.6476444,-79.39888052
+"378 Dudley Ave, Toronto, ON M2N 6M3",$2.37M,https://www.zillow.com/homedetails/378-Dudley-Ave-Toronto-ON-M2N-6M3/2064264207_zpid/,--,--,"378 Dudley Ave, ON",43.779839,-79.4093387
+"120 Homewood Ave #3504, Toronto, ON M4Y 2J3","C$927,880",https://www.zillow.com/homedetails/120-Homewood-Ave-3504-Toronto-ON-M4Y-2J3/2066600433_zpid/,--,--,"120 Homewood Ave , ON",43.6666917,-79.37621984
+"56 Edgecombe Ave, Toronto, ON M5N 2X3",$2.50M,https://www.zillow.com/homedetails/56-Edgecombe-Ave-Toronto-ON-M5N-2X3/2064279445_zpid/,4,4,"56 Edgecombe Ave, ON",43.7197703,-79.41621765
+"67 Woodbine Ave, Toronto, ON M4L 3P1",$1.60M,https://www.zillow.com/homedetails/67-Woodbine-Ave-Toronto-ON-M4L-3P1/2065505407_zpid/,3,3,"67 Woodbine Ave, ON",43.6663087,-79.30455281
+"5 Darlington Dr, Toronto, ON M8Z 3M3",$1.83M,https://www.zillow.com/homedetails/5-Darlington-Dr-Toronto-ON-M8Z-3M3/2071806730_zpid/,--,--,"5 Darlington Dr, ON",43.6343105,-79.506773
+"609 Avenue Rd #302, Toronto, ON M4V 0B1",$1.25M,https://www.zillow.com/homedetails/609-Avenue-Rd-302-Toronto-ON-M4V-0B1/2071851453_zpid/,3,2,"609 Avenue Rd , ON",43.6896946,-79.40213757
+"383 Sorauren Ave #614, Toronto, ON M6R 0A4",$1.07M,https://www.zillow.com/homedetails/383-Sorauren-Ave-614-Toronto-ON-M6R-0A4/2063295308_zpid/,2,2,"383 Sorauren Ave , ON",43.6503029,-79.44447819
+"6 Edna Ave, Toronto, ON M6P 1B5",$1.59M,https://www.zillow.com/homedetails/6-Edna-Ave-Toronto-ON-M6P-1B5/2064218833_zpid/,--,--,"6 Edna Ave, ON",43.65733995,-79.45331285
+"503 Davisville Ave, Toronto, ON M4S 1J2",$1.95M,https://www.zillow.com/homedetails/503-Davisville-Ave-Toronto-ON-M4S-1J2/2064317756_zpid/,--,--,"503 Davisville Ave, ON",43.70231541,-79.37697213
+"175 Pears Ave #TOWNHOUSE, Toronto, ON M5R 0C1",$1.30M,https://www.zillow.com/homedetails/175-Pears-Ave-TOWNHOUSE-Toronto-ON-M5R-0C1/2066521681_zpid/,2,2,"175 Pears Ave , ON",43.67588354,-79.39524732
+"20 Shore Breeze Dr #506, Toronto, ON M8V 0C7",$1.06M,https://www.zillow.com/homedetails/20-Shore-Breeze-Dr-506-Toronto-ON-M8V-0C7/2068479846_zpid/,2,2,"20 Shore Breeze Dr , ON",43.6238249,-79.47940635
+"37 Alvin Curling Cres, Toronto, ON M1V 0E7",$1.85M,https://www.zillow.com/homedetails/37-Alvin-Curling-Cres-Toronto-ON-M1V-0E7/2064208960_zpid/,--,--,"37 Alvin Curling Cres, ON",43.8210257,-79.277833
+"56 Davisbrook Blvd, Toronto, ON M1T 2H9",$1.50M,https://www.zillow.com/homedetails/56-Davisbrook-Blvd-Toronto-ON-M1T-2H9/2064239571_zpid/,4,3,"56 Davisbrook Blvd, ON",43.78229967,-79.30583634
+"308 Gladstone Ave, Toronto, ON M6J 3L6",$2.40M,https://www.zillow.com/homedetails/308-Gladstone-Ave-Toronto-ON-M6J-3L6/2064264208_zpid/,--,--,"308 Gladstone Ave, ON",43.65176522,-79.43088133
+"35 Gentian Dr, Toronto, ON M9C 4E8",$1.50M,https://www.zillow.com/homedetails/35-Gentian-Dr-Toronto-ON-M9C-4E8/2064285911_zpid/,5,3,"35 Gentian Dr, ON",43.6649766,-79.5846882
+"7 Fundy Bay Blvd, Toronto, ON M1W 3A1",$1.18M,https://www.zillow.com/homedetails/7-Fundy-Bay-Blvd-Toronto-ON-M1W-3A1/2066512978_zpid/,--,--,"7 Fundy Bay Blvd, ON",43.8105058,-79.31254742
+"246 Centennial Rd, Toronto, ON M1C 1Z9",$1.61M,https://www.zillow.com/homedetails/246-Centennial-Rd-Toronto-ON-M1C-1Z9/2064193420_zpid/,--,--,"246 Centennial Rd, ON",43.78533428,-79.15002512
+"267 Yonge Blvd, Toronto, ON M5M 3J1",$2.10M,https://www.zillow.com/homedetails/267-Yonge-Blvd-Toronto-ON-M5M-3J1/2064193700_zpid/,3,2,"267 Yonge Blvd, ON",43.74469583,-79.41726988
+"2223 Queen St E, Toronto, ON M4E 1E8",$1.93M,https://www.zillow.com/homedetails/2223-Queen-St-E-Toronto-ON-M4E-1E8/2064193407_zpid/,--,--,"2223 Queen St E., ON",43.6707868,-79.29576747
+"34 Dunwatson Dr, Toronto, ON M1C 3M2",$1.83M,https://www.zillow.com/homedetails/34-Dunwatson-Dr-Toronto-ON-M1C-3M2/2064208900_zpid/,--,--,"34 Dunwatson Dr, ON",43.78158434,-79.15502005
+"103 The Queensway #1404, Toronto, ON M6S 5B3",$1.10M,https://www.zillow.com/homedetails/103-The-Queensway-1404-Toronto-ON-M6S-5B3/2063444279_zpid/,--,--,"103 The Queensway , ON",43.63629085,-79.47037419
+"254 Westmoreland Ave, Toronto, ON M6H 3A5",$1.70M,https://www.zillow.com/homedetails/254-Westmoreland-Ave-Toronto-ON-M6H-3A5/2064279726_zpid/,4,3,"254 Westmoreland Ave, ON",43.66757148,-79.4333045
+"103 Greybeaver Trl, Toronto, ON M1C 4V4",$1.72M,https://www.zillow.com/homedetails/103-Greybeaver-Trl-Toronto-ON-M1C-4V4/2064289001_zpid/,--,--,"103 Greybeaver Trl, ON",43.78863702,-79.12908965
+"19 Flerimac Rd, Toronto, ON M1E 4B1",$2.30M,https://www.zillow.com/homedetails/19-Flerimac-Rd-Toronto-ON-M1E-4B1/2064305452_zpid/,5,5,"19 Flerimac Rd, ON",43.773661,-79.16932315
+"75 York Mills Rd #503, Toronto, ON M2P 2E7",$1.11M,https://www.zillow.com/homedetails/75-York-Mills-Rd-503-Toronto-ON-M2P-2E7/2064132210_zpid/,--,--,"75 York Mills Rd , ON",43.744048,-79.40112685
+"119 Donegall Dr, Toronto, ON M4G 3H1",$3.28M,https://www.zillow.com/homedetails/119-Donegall-Dr-Toronto-ON-M4G-3H1/2064208944_zpid/,--,--,"119 Donegall Dr, ON",43.70958909,-79.37519643
+"108 Arundel Ave, Toronto, ON M4K 3A4",$2.50M,https://www.zillow.com/homedetails/108-Arundel-Ave-Toronto-ON-M4K-3A4/2064244321_zpid/,--,--,"108 Arundel Ave, ON",43.68102064,-79.35208897
+"1B Holborne Ave, Toronto, ON M4C 2R4",$2.39M,https://www.zillow.com/homedetails/1B-Holborne-Ave-Toronto-ON-M4C-2R4/2064244326_zpid/,--,--,"1B Holborne Ave, ON",43.69396265,-79.32157816
+"476 Atlas Ave, Toronto, ON M6C 3R2",$2.33M,https://www.zillow.com/homedetails/476-Atlas-Ave-Toronto-ON-M6C-3R2/2064286989_zpid/,3,4,"476 Atlas Ave, ON",43.69425422,-79.43690491
+"81 Hopedale Ave, Toronto, ON M4K 3M9",$1.70M,https://www.zillow.com/homedetails/81-Hopedale-Ave-Toronto-ON-M4K-3M9/2064289146_zpid/,3,1,"81 Hopedale Ave, ON",43.6956285,-79.3521684
+"174 Pearson Ave, Toronto, ON M6R 1G5",$1.61M,https://www.zillow.com/homedetails/174-Pearson-Ave-Toronto-ON-M6R-1G5/2065414519_zpid/,--,--,"174 Pearson Ave, ON",43.6423023,-79.44629952
+"45 Glenvale Blvd, Toronto, ON M4G 2V4",$2.28M,https://www.zillow.com/homedetails/45-Glenvale-Blvd-Toronto-ON-M4G-2V4/2071561836_zpid/,3,2,"45 Glenvale Blvd, ON",43.71667377,-79.37475828
+"8 Eglinton Ave E #4711, Toronto, ON M4P 0C1",$1.08M,https://www.zillow.com/homedetails/8-Eglinton-Ave-E-4711-Toronto-ON-M4P-0C1/2071833394_zpid/,--,--,"8 Eglinton Ave E. , ON",43.7072672,-79.39796374
+"223 Fairlawn Ave, Toronto, ON M5M 1S9",$2.03M,https://www.zillow.com/homedetails/223-Fairlawn-Ave-Toronto-ON-M5M-1S9/2064219377_zpid/,--,--,"223 Fairlawn Ave, ON",43.7292434,-79.4108029
+"181 Bingham Ave, Toronto, ON M4E 3R4",$1.89M,https://www.zillow.com/homedetails/181-Bingham-Ave-Toronto-ON-M4E-3R4/2064221543_zpid/,3,4,"181 Bingham Ave, ON",43.6830208,-79.2859246
+"175 Ellerslie Ave, Toronto, ON M2N 1Y3",$1.52M,https://www.zillow.com/homedetails/175-Ellerslie-Ave-Toronto-ON-M2N-1Y3/2064264202_zpid/,3,1,"175 Ellerslie Ave, ON",43.76961994,-79.4217032
+"26 Linelle St, Toronto, ON M2N 2J3",$1.42M,https://www.zillow.com/homedetails/26-Linelle-St-Toronto-ON-M2N-2J3/2064181086_zpid/,--,--,"26 Linelle St, ON",43.75523681,-79.41094082
+"330 Kingswood Rd, Toronto, ON M4E 3N9",$1.62M,https://www.zillow.com/homedetails/330-Kingswood-Rd-Toronto-ON-M4E-3N9/2064235315_zpid/,2,2,"330 Kingswood Rd, ON",43.68217077,-79.28696027
+"64 Saulter St, Toronto, ON M4M 2H7",$1.81M,https://www.zillow.com/homedetails/64-Saulter-St-Toronto-ON-M4M-2H7/2064262315_zpid/,--,--,"64 Saulter St, ON",43.65836973,-79.34712312
+"73 Sonmore Dr, Toronto, ON M1S 1X3",$1.48M,https://www.zillow.com/homedetails/73-Sonmore-Dr-Toronto-ON-M1S-1X3/2064279914_zpid/,6,4,"73 Sonmore Dr, ON",43.78380033,-79.27281208
+"72 Waterloo Ave, Toronto, ON M3H 3Y4",$1.43M,https://www.zillow.com/homedetails/72-Waterloo-Ave-Toronto-ON-M3H-3Y4/2065424764_zpid/,5,2,"72 Waterloo Ave, ON",43.7590183,-79.443259
+"161 Wolfrey Ave, Toronto, ON M4K 1L4",$2.60M,https://www.zillow.com/homedetails/161-Wolfrey-Ave-Toronto-ON-M4K-1L4/2064284934_zpid/,4,3,"161 Wolfrey Ave, ON",43.67535727,-79.3501751
+"106 Edith Dr, Toronto, ON M4R 1Z2",$2.05M,https://www.zillow.com/homedetails/106-Edith-Dr-Toronto-ON-M4R-1Z2/2064285259_zpid/,3,2,"106 Edith Dr, ON",43.70885281,-79.40404536
+"10 Kingsmount Park Rd, Toronto, ON M4L 3L1",$1.41M,https://www.zillow.com/homedetails/10-Kingsmount-Park-Rd-Toronto-ON-M4L-3L1/2064290029_zpid/,3,2,"10 Kingsmount Park Rd, ON",43.6759458,-79.31111634
+"5 Bain Ave, Toronto, ON M4K 1E5",$1.92M,https://www.zillow.com/homedetails/5-Bain-Ave-Toronto-ON-M4K-1E5/2064167984_zpid/,4,2,"5 Bain Ave, ON",43.6704631,-79.35308565
+"38 Harlow Cres, Toronto, ON M9V 2Y5",$--,https://www.zillow.com/homedetails/38-Harlow-Cres-Toronto-ON-M9V-2Y5/2067463695_zpid/,--,--,"38 Harlow Cres, ON",43.73999507,-79.56939367
+"43 Madawaska Ave, Toronto, ON M2M 2R1",$3.40M,https://www.zillow.com/homedetails/43-Madawaska-Ave-Toronto-ON-M2M-2R1/2065595283_zpid/,4,6,"43 Madawaska Ave, ON",43.79437083,-79.41571929
+"30 Chicora Ave, Toronto, ON M5R 1T6",$3.30M,https://www.zillow.com/homedetails/30-Chicora-Ave-Toronto-ON-M5R-1T6/2064281873_zpid/,--,--,"30 Chicora Ave, ON",43.67604016,-79.39920545
+"360 Bloor St E #1010, Toronto, ON M4W 3M3",$1.23M,https://www.zillow.com/homedetails/360-Bloor-St-E-1010-Toronto-ON-M4W-3M3/2071874654_zpid/,3,3,"360 Bloor St E. , ON",43.6721777,-79.3783574
+"24 Hiltz Ave, Toronto, ON M4L 2N5",$1.40M,https://www.zillow.com/homedetails/24-Hiltz-Ave-Toronto-ON-M4L-2N5/2064264215_zpid/,--,--,"24 Hiltz Ave, ON",43.66467276,-79.3265339
+"96 Maria St, Toronto, ON M6P 1W4",$1.63M,https://www.zillow.com/homedetails/96-Maria-St-Toronto-ON-M6P-1W4/2069717065_zpid/,3,2,"96 Maria St, ON",43.66662078,-79.4762936
+"116 Galt Ave, Toronto, ON M4M 2Z3",$1.67M,https://www.zillow.com/homedetails/116-Galt-Ave-Toronto-ON-M4M-2Z3/2071355324_zpid/,1,1,"116 Galt Ave, ON",43.67005642,-79.33715048
+"16 Hancock Cres, Toronto, ON M1R 2A3",$1.40M,https://www.zillow.com/homedetails/16-Hancock-Cres-Toronto-ON-M1R-2A3/2064181098_zpid/,--,--,"16 Hancock Cres, ON",43.74413567,-79.29569608
+"280 Rustic Rd, Toronto, ON M6L 1W4",$1.61M,https://www.zillow.com/homedetails/280-Rustic-Rd-Toronto-ON-M6L-1W4/2064264176_zpid/,4,2,"280 Rustic Rd, ON",43.7149322,-79.49251426
+"319 Carlaw Ave #410, Toronto, ON M4M 0A4",$1.05M,https://www.zillow.com/homedetails/319-Carlaw-Ave-410-Toronto-ON-M4M-0A4/2063304472_zpid/,--,--,"319 Carlaw Ave , ON",43.6642278,-79.3411709
+"67 Muirbank Blvd, Toronto, ON M1C 4S2",$--,https://www.zillow.com/homedetails/67-Muirbank-Blvd-Toronto-ON-M1C-4S2/2066849084_zpid/,6,4,"67 Muirbank Blvd, ON",43.79487657,-79.15837513
+"350 Lonsdale Rd #308, Toronto, ON M5P 1R6",$1.50M,https://www.zillow.com/homedetails/350-Lonsdale-Rd-308-Toronto-ON-M5P-1R6/2071834867_zpid/,2,2,"350 Lonsdale Rd , ON",43.68847795,-79.4146439
+"59 Brookview Dr, Toronto, ON M6A 2K4",$1.58M,https://www.zillow.com/homedetails/59-Brookview-Dr-Toronto-ON-M6A-2K4/2064264250_zpid/,3,2,"59 Brookview Dr, ON",43.72153122,-79.43844272
+"636 Evans Ave #27, Toronto, ON M8W 0A8",$1.16M,https://www.zillow.com/homedetails/636-Evans-Ave-27-Toronto-ON-M8W-0A8/2068108038_zpid/,3,4,"636 Evans Ave , ON",43.6100646,-79.552128
+"38 Thelma Ave, Toronto, ON M4V 1X9",$2.00M,https://www.zillow.com/homedetails/38-Thelma-Ave-Toronto-ON-M4V-1X9/2064208943_zpid/,3,4,"38 Thelma Ave, ON",43.689983,-79.411125
+"95 Ravensbourne Cres, Toronto, ON M9A 2B3",$2.30M,https://www.zillow.com/homedetails/95-Ravensbourne-Cres-Toronto-ON-M9A-2B3/2065713563_zpid/,--,--,"95 Ravensbourne Cres, ON",43.67537569,-79.54292903
+"11 Jersey Ave, Toronto, ON M6G 3A2",$1.54M,https://www.zillow.com/homedetails/11-Jersey-Ave-Toronto-ON-M6G-3A2/2069605580_zpid/,1,2,"11 Jersey Ave, ON",43.6585652,-79.415976
+"187 Rumsey Rd, Toronto, ON M4G 1P4",$2.56M,https://www.zillow.com/homedetails/187-Rumsey-Rd-Toronto-ON-M4G-1P4/2064289142_zpid/,--,--,"187 Rumsey Rd, ON",43.708873,-79.3680303
+"42 Addington Ave, Toronto, ON M2N 2L2",$2.00M,https://www.zillow.com/homedetails/42-Addington-Ave-Toronto-ON-M2N-2L2/2065712248_zpid/,--,--,"42 Addington Ave, ON",43.7607579,-79.4257649
+"81 Gough Ave, Toronto, ON M4K 3N9",$4.17M,https://www.zillow.com/homedetails/81-Gough-Ave-Toronto-ON-M4K-3N9/2065731336_zpid/,--,--,"81 Gough Ave, ON",43.67964449,-79.34633563
+"22 Lady Bank Rd, Toronto, ON M8Z 4J5",$1.62M,https://www.zillow.com/homedetails/22-Lady-Bank-Rd-Toronto-ON-M8Z-4J5/2065731417_zpid/,--,--,"22 Lady Bank Rd, ON",43.6262435,-79.51280003
+"70 Annie Craig Dr #3205, Toronto, ON M8V 0G2",$1.14M,https://www.zillow.com/homedetails/70-Annie-Craig-Dr-3205-Toronto-ON-M8V-0G2/2070900277_zpid/,2,2,"70 Annie Craig Dr , ON",43.62547568,-79.47842707
+"444 Lansdowne Ave, Toronto, ON M6H 3Y3",$1.43M,https://www.zillow.com/homedetails/444-Lansdowne-Ave-Toronto-ON-M6H-3Y3/2064207036_zpid/,3,2,"444 Lansdowne Ave, ON",43.65618669,-79.44222945
+"179 Wheeler Ave, Toronto, ON M4L 3V5",$1.60M,https://www.zillow.com/homedetails/179-Wheeler-Ave-Toronto-ON-M4L-3V5/2064208936_zpid/,--,--,"179 Wheeler Ave, ON",43.67585204,-79.30107586
+"521 Roxton Rd, Toronto, ON M6G 3R5",$1.60M,https://www.zillow.com/homedetails/521-Roxton-Rd-Toronto-ON-M6G-3R5/2065731373_zpid/,--,--,"521 Roxton Rd, ON",43.66123444,-79.42390532
+"737 Woburn Ave, Toronto, ON M5M 1M2",$3.65M,https://www.zillow.com/homedetails/737-Woburn-Ave-Toronto-ON-M5M-1M2/2068427790_zpid/,4,5,"737 Woburn Ave, ON",43.72269718,-79.42937897
+"47 Reiner Rd, Toronto, ON M3H 2L3",$1.60M,https://www.zillow.com/homedetails/47-Reiner-Rd-Toronto-ON-M3H-2L3/2070008275_zpid/,3,2,"47 Reiner Rd, ON",43.75154285,-79.44120322
+"171 Willow Ave, Toronto, ON M4E 3K4",$2.86M,https://www.zillow.com/homedetails/171-Willow-Ave-Toronto-ON-M4E-3K4/2082812999_zpid/,4,5,"171 Willow Ave, ON",43.67515025,-79.2871065
+"268 Hiawatha Rd, Toronto, ON M4L 2Y4",$1.74M,https://www.zillow.com/homedetails/268-Hiawatha-Rd-Toronto-ON-M4L-2Y4/2065713435_zpid/,--,--,"268 Hiawatha Rd, ON",43.6759796,-79.3247626
+"68 Saulter St, Toronto, ON M4M 2H7",$1.81M,https://www.zillow.com/homedetails/68-Saulter-St-Toronto-ON-M4M-2H7/2065715041_zpid/,3,3,"68 Saulter St, ON",43.65845354,-79.34715881
+"31 Leuty Ave, Toronto, ON M4E 2R2",$2.60M,https://www.zillow.com/homedetails/31-Leuty-Ave-Toronto-ON-M4E-2R2/2065731262_zpid/,--,--,"31 Leuty Ave, ON",43.66832572,-79.29542848
+"38 Bernard Ave, Toronto, ON M5R 1R2",$2.95M,https://www.zillow.com/homedetails/38-Bernard-Ave-Toronto-ON-M5R-1R2/2065743805_zpid/,4,3,"38 Bernard Ave, ON",43.67362665,-79.39850327
+"304 Berkeley St, Toronto, ON M5A 2X5",$1.73M,https://www.zillow.com/homedetails/304-Berkeley-St-Toronto-ON-M5A-2X5/2065713490_zpid/,3,3,"304 Berkeley St, ON",43.66039592,-79.36798325
+"99 Anndale Dr, Toronto, ON M2N 2X3",$2.15M,https://www.zillow.com/homedetails/99-Anndale-Dr-Toronto-ON-M2N-2X3/2065731377_zpid/,--,--,"99 Anndale Dr, ON",43.76187543,-79.40082292
+"44 Purdon Dr, Toronto, ON M3H 4X1",$2.53M,https://www.zillow.com/homedetails/44-Purdon-Dr-Toronto-ON-M3H-4X1/2065736922_zpid/,--,--,"44 Purdon Dr, ON",43.76714956,-79.4633212
+"87 Priscilla Ave, Toronto, ON M6S 3W4",$1.51M,https://www.zillow.com/homedetails/87-Priscilla-Ave-Toronto-ON-M6S-3W4/2065713386_zpid/,--,--,"87 Priscilla Ave, ON",43.66318678,-79.48831492
+"12 Pinewood Ave, Toronto, ON M6C 2V1",$2.32M,https://www.zillow.com/homedetails/12-Pinewood-Ave-Toronto-ON-M6C-2V1/2065730866_zpid/,4,4,"12 Pinewood Ave, ON",43.6826875,-79.42512113
+"59 Monastery Ln, Toronto, ON M1L 4V7",$1.61M,https://www.zillow.com/homedetails/59-Monastery-Ln-Toronto-ON-M1L-4V7/2065731347_zpid/,--,--,"59 Monastery Ln, ON",43.71482729,-79.28412952
+"3 Clarinda Dr, Toronto, ON M2K 2W4",$3.20M,https://www.zillow.com/homedetails/3-Clarinda-Dr-Toronto-ON-M2K-2W4/2064281339_zpid/,5,5,"3 Clarinda Dr, ON",43.77309909,-79.37057329
+"15 Kingsmere Cres, Toronto, ON M1M 3B2",$1.52M,https://www.zillow.com/homedetails/15-Kingsmere-Cres-Toronto-ON-M1M-3B2/2064288998_zpid/,--,--,"15 Kingsmere Cres, ON",43.7419372,-79.2128584
+"50 Eaton Ave, Toronto, ON M4J 2Z5",$1.94M,https://www.zillow.com/homedetails/50-Eaton-Ave-Toronto-ON-M4J-2Z5/2065728472_zpid/,3,3,"50 Eaton Ave, ON",43.68082092,-79.3437656
+"296 Withrow Ave, Toronto, ON M4J 1B7",$2.08M,https://www.zillow.com/homedetails/296-Withrow-Ave-Toronto-ON-M4J-1B7/2065746575_zpid/,--,--,"296 Withrow Ave, ON",43.67249549,-79.34078633
+"50 Glen Davis Cres, Toronto, ON M4E 1X5",$1.74M,https://www.zillow.com/homedetails/50-Glen-Davis-Cres-Toronto-ON-M4E-1X5/2065742747_zpid/,3,1,"50 Glen Davis Cres, ON",43.67953037,-79.30229308
+"115 Saturn Rd, Toronto, ON M9C 2S8",$1.65M,https://www.zillow.com/homedetails/115-Saturn-Rd-Toronto-ON-M9C-2S8/2066093067_zpid/,4,2,"115 Saturn Rd, ON",43.6409121,-79.5737843
+"2 Bonacres Ave, Toronto, ON M1C 1P7",$1.70M,https://www.zillow.com/homedetails/2-Bonacres-Ave-Toronto-ON-M1C-1P7/2066482934_zpid/,3,1,"2 Bonacres Ave, ON",43.7810547,-79.1670894
+"59 Broadlands Blvd, Toronto, ON M3A 1J4",$1.73M,https://www.zillow.com/homedetails/59-Broadlands-Blvd-Toronto-ON-M3A-1J4/2069234430_zpid/,3,1,"59 Broadlands Blvd, ON",43.74446265,-79.32101907
+"6 Harvard Ave, Toronto, ON M6R 1C6",$--,https://www.zillow.com/homedetails/6-Harvard-Ave-Toronto-ON-M6R-1C6/2067540389_zpid/,5,5,"6 Harvard Ave, ON",43.6410557,-79.44329226
+"83 Eastville Ave, Toronto, ON M1M 2N8",$2.50M,https://www.zillow.com/homedetails/83-Eastville-Ave-Toronto-ON-M1M-2N8/2081037174_zpid/,4,4,"83 Eastville Ave, ON",43.71768749,-79.2352383
+"38 Camberwell Rd, Toronto, ON M6C 3E8",$1.65M,https://www.zillow.com/homedetails/38-Camberwell-Rd-Toronto-ON-M6C-3E8/2065726474_zpid/,3,2,"38 Camberwell Rd, ON",43.69857288,-79.42940696
+"66 Horsham Ave, Toronto, ON M2N 1Z7",$1.79M,https://www.zillow.com/homedetails/66-Horsham-Ave-Toronto-ON-M2N-1Z7/2065736168_zpid/,3,3,"66 Horsham Ave, ON",43.77403136,-79.41769793
+"46 Lunness Rd, Toronto, ON M8W 4M4",$1.96M,https://www.zillow.com/homedetails/46-Lunness-Rd-Toronto-ON-M8W-4M4/2065713402_zpid/,--,--,"46 Lunness Rd, ON",43.60564988,-79.5458272
+"18 Merton St #702, Toronto, ON M4S 3G9",$1.25M,https://www.zillow.com/homedetails/18-Merton-St-702-Toronto-ON-M4S-3G9/2067082210_zpid/,3,3,"18 Merton St , ON",43.69650595,-79.39540934
+"45 Lower Links Rd, Toronto, ON M2P 1H5",$2.86M,https://www.zillow.com/homedetails/45-Lower-Links-Rd-Toronto-ON-M2P-1H5/2065731341_zpid/,4,4,"45 Lower Links Rd, ON",43.7499882,-79.3993111
+"30 Inverleigh Dr, Toronto, ON M8Y 3E3",$2.70M,https://www.zillow.com/homedetails/30-Inverleigh-Dr-Toronto-ON-M8Y-3E3/2065736181_zpid/,--,--,"30 Inverleigh Dr, ON",43.62719344,-79.4957751
+"144 Gillard Ave, Toronto, ON M4J 4N6",$2.10M,https://www.zillow.com/homedetails/144-Gillard-Ave-Toronto-ON-M4J-4N6/2065746714_zpid/,4,4,"144 Gillard Ave, ON",43.68015465,-79.32748639
+"993 Queen St W #306, Toronto, ON M6J 1H2",$1.50M,https://www.zillow.com/homedetails/993-Queen-St-W-306-Toronto-ON-M6J-1H2/2066397498_zpid/,1,2,"993 Queen St W. , ON",43.53457577,-79.60689762
+"113 McMahon Dr #TOWNHOUSE, Toronto, ON M2K 0E5",$1.25M,https://www.zillow.com/homedetails/113-McMahon-Dr-TOWNHOUSE-Toronto-ON-M2K-0E5/2071891209_zpid/,3,4,"113 Mcmahon Dr , ON",43.76675996,-79.37345982
+"81 Brookmill Blvd #1, Toronto, ON M1W 2L5",$1.20M,https://www.zillow.com/homedetails/81-Brookmill-Blvd-1-Toronto-ON-M1W-2L5/2066383579_zpid/,3,3,"81 Brookmill Blvd , ON",43.801882,-79.3136136
+"1 Concorde Pl #1201, Toronto, ON M3C 3K6",$1.20M,https://www.zillow.com/homedetails/1-Concorde-Pl-1201-Toronto-ON-M3C-3K6/2066436813_zpid/,--,--,"1 Concorde Pl , ON",43.7286085,-79.32752758
+"38 Grenville St #3904, Toronto, ON M4Y 1A5",$1.11M,https://www.zillow.com/homedetails/38-Grenville-St-3904-Toronto-ON-M4Y-1A5/2071882464_zpid/,2,2,"38 Grenville St , ON",45.02434529,-75.64327086
+"8 Mercer St #3107, Toronto, ON M5V 0C4",$1.27M,https://www.zillow.com/homedetails/8-Mercer-St-3107-Toronto-ON-M5V-0C4/2066441194_zpid/,3,2,"8 Mercer St , ON",43.64600685,-79.39005485
+"218 Queens Quay W #1703, Toronto, ON M5J",$1.02M,https://www.zillow.com/homedetails/218-Queens-Quay-W-1703-Toronto-ON-M5J/2066516909_zpid/,2,2,"218 Queens Quay W. , ON",43.6399017,-79.3824661
+"10 Bellair St #603, Toronto, ON M5R 3T8",$2.11M,https://www.zillow.com/homedetails/10-Bellair-St-603-Toronto-ON-M5R-3T8/2066453491_zpid/,--,--,"10 Bellair St , ON",43.66966255,-79.39118628
+"5180 Yonge St #3406, Toronto, ON M2N 0K5",$1.47M,https://www.zillow.com/homedetails/5180-Yonge-St-3406-Toronto-ON-M2N-0K5/2066498155_zpid/,2,3,"5180 Yonge St , ON",44.20197957,-79.58631009
+"30 Old Mill Rd #610, Toronto, ON M8X 0A5",$1.57M,https://www.zillow.com/homedetails/30-Old-Mill-Rd-610-Toronto-ON-M8X-0A5/2071876322_zpid/,--,--,"30 Old Mill Rd , ON",43.65144905,-79.49379104
+"58 Linderwood Dr, Toronto, ON M1C 3P8",$1.88M,https://www.zillow.com/homedetails/58-Linderwood-Dr-Toronto-ON-M1C-3P8/2065731376_zpid/,5,5,"58 Linderwood Dr, ON",43.79094149,-79.14729873
+"17 Elderidge Ave, Toronto, ON M8Y 2C6",$2.02M,https://www.zillow.com/homedetails/17-Elderidge-Ave-Toronto-ON-M8Y-2C6/2065731387_zpid/,--,--,"17 Elderidge Ave, ON",43.6361665,-79.50232707
+"70 Byng Ave #31, Toronto, ON M2N 7L9",$1.20M,https://www.zillow.com/homedetails/70-Byng-Ave-31-Toronto-ON-M2N-7L9/2066400838_zpid/,--,--,"70 Byng Ave , ON",43.7774204,-79.4113118
+"38 Avoca Ave #806, Toronto, ON M4T 2B9",$1.28M,https://www.zillow.com/homedetails/38-Avoca-Ave-806-Toronto-ON-M4T-2B9/2066441992_zpid/,2,2,"38 Avoca Ave , ON",43.6886942,-79.39000027
+"33 Harbour Sq #1620, Toronto, ON M5J 2G2",$1.22M,https://www.zillow.com/homedetails/33-Harbour-Sq-1620-Toronto-ON-M5J-2G2/2066480510_zpid/,2,2,"33 Harbour Sq , ON",43.6406828,-79.3769999
+"300 Bloor St E #3105, Toronto, ON M4W 3Y2",$1.23M,https://www.zillow.com/homedetails/300-Bloor-St-E-3105-Toronto-ON-M4W-3Y2/2066492803_zpid/,--,--,"300 Bloor St E. , ON",43.67216935,-79.37988931
+"99 Greybeaver Trl, Toronto, ON M1C 4V4",$1.70M,https://www.zillow.com/homedetails/99-Greybeaver-Trl-Toronto-ON-M1C-4V4/2065726898_zpid/,4,4,"99 Greybeaver Trl, ON",43.78851164,-79.12889321
+"781 King St W #402, Toronto, ON M5V 3L5",$1.22M,https://www.zillow.com/homedetails/781-King-St-W-402-Toronto-ON-M5V-3L5/2066497571_zpid/,--,--,"781 King St W. , ON",43.6426924,-79.40634102
+"18 Wanless Ave #604, Toronto, ON M4N 3R9",$1.20M,https://www.zillow.com/homedetails/18-Wanless-Ave-604-Toronto-ON-M4N-3R9/2066521684_zpid/,3,2,"18 Wanless Ave , ON",43.7268093,-79.4020116
+"701 Dovercourt Rd #301, Toronto, ON M6H 0A1",$1.70M,https://www.zillow.com/homedetails/701-Dovercourt-Rd-301-Toronto-ON-M6H-0A1/2079273939_zpid/,2,2,"701 Dovercourt Rd , ON",43.65992207,-79.42874674
+"10 Delisle Ave #813, Toronto, ON M4V 3C6",$1.98M,https://www.zillow.com/homedetails/10-Delisle-Ave-813-Toronto-ON-M4V-3C6/2066492807_zpid/,--,--,"10 Delisle Ave , ON",43.6895062,-79.39540516
+"125 Redpath Ave #2708, Toronto, ON M4S 0B5",$1.08M,https://www.zillow.com/homedetails/125-Redpath-Ave-2708-Toronto-ON-M4S-0B5/2066505401_zpid/,--,--,"125 Redpath Ave , ON",43.70997613,-79.39362747
+"179 Cornelius Pkwy, Toronto, ON M6L 2K8",$2.10M,https://www.zillow.com/homedetails/179-Cornelius-Pkwy-Toronto-ON-M6L-2K8/2065713371_zpid/,--,--,"179 Cornelius Pkwy, ON",43.72041673,-79.47524782
+"231 Riverside Dr, Toronto, ON M6S 4A8",$4.15M,https://www.zillow.com/homedetails/231-Riverside-Dr-Toronto-ON-M6S-4A8/2065737130_zpid/,--,--,"231 Riverside Dr, ON",43.6427825,-79.48264799
+"280 Howland Ave #209, Toronto, ON M5R 0C3",$1.77M,https://www.zillow.com/homedetails/280-Howland-Ave-209-Toronto-ON-M5R-0C3/2066504172_zpid/,--,--,"280 Howland Ave , ON",43.66739764,-79.40933189
+"500 Sherbourne St #510, Toronto, ON M4X 1L1",$1.15M,https://www.zillow.com/homedetails/500-Sherbourne-St-510-Toronto-ON-M4X-1L1/2067696452_zpid/,--,--,"500 Sherbourne St , ON",43.66796725,-79.37558104
+"500 Sherbourne St #303, Toronto, ON M4X 1L1",$1.01M,https://www.zillow.com/homedetails/500-Sherbourne-St-303-Toronto-ON-M4X-1L1/2068485997_zpid/,--,--,"500 Sherbourne St , ON",43.66796725,-79.37558104
+"1 Old Mill Dr #605, Toronto, ON M6S 0A1",$1.30M,https://www.zillow.com/homedetails/1-Old-Mill-Dr-605-Toronto-ON-M6S-0A1/2068571054_zpid/,--,--,"1 Old Mill Dr , ON",43.6484634,-79.48617337
+"328 Moore Park Ave, Toronto, ON M2R 2R6",$1.80M,https://www.zillow.com/homedetails/328-Moore-Park-Ave-Toronto-ON-M2R-2R6/2087330199_zpid/,1,1,"328 Moore Park Ave, ON",43.78990209,-79.43721448
+"191 Brooke Ave, Toronto, ON M5M 2K7",$2.85M,https://www.zillow.com/homedetails/191-Brooke-Ave-Toronto-ON-M5M-2K7/2064264203_zpid/,--,--,"191 Brooke Ave, ON",43.73363143,-79.41707708
+"249 Glenrose Ave, Toronto, ON M4T 1L1",$3.20M,https://www.zillow.com/homedetails/249-Glenrose-Ave-Toronto-ON-M4T-1L1/2065713540_zpid/,--,--,"249 Glenrose Ave, ON",43.6906137,-79.37695159
+"130 Riverdale Ave, Toronto, ON M4K 1C3",$2.93M,https://www.zillow.com/homedetails/130-Riverdale-Ave-Toronto-ON-M4K-1C3/2065736438_zpid/,4,4,"130 Riverdale Ave, ON",43.67013179,-79.34769849
+"20 Lombard St #4303, Toronto, ON M5C 0A7",$2.30M,https://www.zillow.com/homedetails/20-Lombard-St-4303-Toronto-ON-M5C-0A7/2066411664_zpid/,2,2,"20 Lombard St , ON",43.65155565,-79.37684124
+"33 Harbour Sq #2421, Toronto, ON M5J 2G2",$1.36M,https://www.zillow.com/homedetails/33-Harbour-Sq-2421-Toronto-ON-M5J-2G2/2066498008_zpid/,--,--,"33 Harbour Sq , ON",43.6406828,-79.3769999
+"100 Harrison Garden Blvd #1702, Toronto, ON M2N 0C2","C$755,000",https://www.zillow.com/homedetails/100-Harrison-Garden-Blvd-1702-Toronto-ON-M2N-0C2/2067773049_zpid/,--,--,"100 Harrison Garden Blvd , ON",43.7569574,-79.4043424
+"100 Norton Ave, Toronto, ON M2N 4A5",$4.02M,https://www.zillow.com/homedetails/100-Norton-Ave-Toronto-ON-M2N-4A5/2069178450_zpid/,--,--,"100 Norton Ave, ON",43.77336153,-79.40760755
+"30 Old Mill Rd #104, Toronto, ON M8X 0A5",$1.30M,https://www.zillow.com/homedetails/30-Old-Mill-Rd-104-Toronto-ON-M8X-0A5/2080872304_zpid/,2,--,"30 Old Mill Rd , ON",43.65144905,-79.49379104
+"11 Everson Dr #607, Toronto, ON M2N 7B9",$1.46M,https://www.zillow.com/homedetails/11-Everson-Dr-607-Toronto-ON-M2N-7B9/2066442061_zpid/,--,--,"11 Everson Dr , ON",43.75720318,-79.4068739
+"763 Bay St #4506, Toronto, ON M5G 2R3",$1.14M,https://www.zillow.com/homedetails/763-Bay-St-4506-Toronto-ON-M5G-2R3/2066542764_zpid/,2,2,"763 Bay St , ON",43.66012805,-79.38508287
+"227 Hillsdale Ave E, Toronto, ON M4S 1T7",$2.80M,https://www.zillow.com/homedetails/227-Hillsdale-Ave-E-Toronto-ON-M4S-1T7/2067324878_zpid/,--,--,"227 Hillsdale Ave E., ON",43.70465431,-79.39100719
+"223 Humberside Ave, Toronto, ON M6P 1K9",$1.66M,https://www.zillow.com/homedetails/223-Humberside-Ave-Toronto-ON-M6P-1K9/2065713555_zpid/,--,--,"223 Humberside Ave, ON",43.6608647,-79.4658287
+"45 Sousa Mendes St #803, Toronto, ON M6P 0A7",$1.34M,https://www.zillow.com/homedetails/45-Sousa-Mendes-St-803-Toronto-ON-M6P-0A7/2066497580_zpid/,2,2,"45 Sousa Mendes St , ON",43.6617918,-79.45356414
+"217 Hillsdale Ave E, Toronto, ON M4S 1T7",$2.85M,https://www.zillow.com/homedetails/217-Hillsdale-Ave-E-Toronto-ON-M4S-1T7/2067887361_zpid/,4,4,"217 Hillsdale Ave E., ON",43.70457822,-79.39137953
+"450 Merton St, Toronto, ON M4S 1B3",$2.50M,https://www.zillow.com/homedetails/450-Merton-St-Toronto-ON-M4S-1B3/2067437564_zpid/,--,--,"450 Merton St, ON",43.69898762,-79.38291913
+"33 Mill St #2406, Toronto, ON M5A 3R3","C$955,000",https://www.zillow.com/homedetails/33-Mill-St-2406-Toronto-ON-M5A-3R3/2071813368_zpid/,--,--,"33 Mill St , ON",43.6503384,-79.3608363
+"64 Granby St, Toronto, ON M5B 2J5",$1.82M,https://www.zillow.com/homedetails/64-Granby-St-Toronto-ON-M5B-2J5/2071900633_zpid/,--,--,"64 Granby St, ON",43.66117574,-79.37988463
+"35 Green Belt Dr, Toronto, ON M3C 1L8",$1.48M,https://www.zillow.com/homedetails/35-Green-Belt-Dr-Toronto-ON-M3C-1L8/2067533216_zpid/,--,--,"35 Green Belt Dr, ON",43.7302455,-79.33626168
+"110B Palmerston Ave, Toronto, ON M6J 2H7",$1.78M,https://www.zillow.com/homedetails/110B-Palmerston-Ave-Toronto-ON-M6J-2H7/2071834900_zpid/,--,--,"110B Palmerston Ave, ON",43.67290708,-79.41684943
+"291 Belsize Dr, Toronto, ON M4S 1M7",$1.44M,https://www.zillow.com/homedetails/291-Belsize-Dr-Toronto-ON-M4S-1M7/2067415513_zpid/,--,--,"291 Belsize Dr, ON",43.70345211,-79.38254549
