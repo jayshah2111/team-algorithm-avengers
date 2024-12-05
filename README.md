@@ -8,6 +8,8 @@ The house price data is the base of all the analyses as all factors are being as
 
 This house price data is located in the main repository and the relevant files have been copied to each sub folder for the different factors affecting house prices.
 
+Each notebook in this repository conducts exploratory data analysis on the various factors affecting house prices and generates relevant output. 
+
 The notebook(s) for each folder are:
 - housing-data-EDA: Four notebooks independent of each other - Housing_Combined.ipynb; Municipal_Json_Mapping.ipynb; Selenium_Zillow.ipynb; Ward_Map.ipynb
 
