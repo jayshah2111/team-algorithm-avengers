@@ -2,7 +2,7 @@ This repository consists of:
 - House price data extraction and cleaning - located in the main folder.
 - Green space data analysis - 'green-spaces' folder.
 - Transit station data analysis -'TTC_Files' folder.
-- Safe injection sites and needle dropbox location data analysis - 'Injection Site EDA' folder.
+- Safe injection sites and needle dropbox location data analysis - 'Injection-Site-EDA' folder.
 
 The house price data is the base of all the analyses as all factors are being assessed against house prices. Outputs and codes from these notebooks were used in the notebooks for each factor analysis.
 
