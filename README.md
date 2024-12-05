@@ -30,7 +30,8 @@ This exploratory data analysis is discussed in the following medium article:
 *** Project Attributions ***
 
 Angela Abdullahi:
-
+- Web scraped and geocoded injection site and needle drop box locations
+- Injection site and needle drop box EDA. Spatial analysis of neighbourhoods, sites, and sold properties.
 Annalisa Fraser:
 
 Jay Shah:
