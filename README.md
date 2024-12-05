@@ -27,4 +27,14 @@ The notebooks would be able to run without issue as all required files being cal
 This exploratory data analysis is discussed in the following medium article:
 'Analyzing Possible Factors Affecting Housing Prices in Toronto Using Exploratory Data Analysis' - https://medium.com/@antonio.tripodi/a6273111b1a6 
 
+*** Project Attributions ***
+
+Angela Abdullahi:
+Annalisa Fraser:
+Jay Shah:
+Antonio Tripodi:
+    - Sourced, combined, and cleaned municpality housing
+    - Created a selenium bot to scrape data off Zillow.ca
+    - Sourced municipality boundary files to create a municipality map
+
 
