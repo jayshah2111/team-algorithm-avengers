@@ -34,6 +34,8 @@ Angela Abdullahi:
 Annalisa Fraser:
 
 Jay Shah:
+- Performed EDA to analyse effect of green space on housing prices
+- Analysed effects of Points of Interests, Crime, Schools, Ambulance Stations, and Neighbourhood Improvement Areas
 
 Antonio Tripodi:
 - Sourced, combined, and cleaned municpality housing
