@@ -32,7 +32,11 @@ This exploratory data analysis is discussed in the following medium article:
 Angela Abdullahi:
 - Web scraped and geocoded injection site and needle drop box locations
 - Injection site and needle drop box EDA. Spatial analysis of neighbourhoods, sites, and sold properties.
-Annalisa Fraser:
+
+Annalisa Fraser: 
+- Obtained transit station dataset from Metrolinx and conducted EDA to assess the housing price trends for municipalities where the transit stations are located.
+- Conducted geospatial analysis to clean, filter and merge the transit station and municipality geo dataframes and produce maps to visualize the data.
+- Analyzed the data trends using spatial and temporal analysis. 
 
 Jay Shah:
 - Performed EDA to analyse effect of green space on housing prices
