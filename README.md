@@ -9,6 +9,7 @@ The house price data is the base of all the analyses as all factors are being as
 This house price data is located in the main repository and the relevant files have been copied to each sub folder for the different factors affecting house prices.
 
 The notebook(s) for each folder are:
+
 green-spaces: green-space-analysis.ipynb
 
 TTC_Files: TTC_Lines.ipynb
