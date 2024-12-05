@@ -30,11 +30,14 @@ This exploratory data analysis is discussed in the following medium article:
 *** Project Attributions ***
 
 Angela Abdullahi:
+
 Annalisa Fraser:
+
 Jay Shah:
+
 Antonio Tripodi:
-    - Sourced, combined, and cleaned municpality housing
-    - Created a selenium bot to scrape data off Zillow.ca
-    - Sourced municipality boundary files to create a municipality map
+- Sourced, combined, and cleaned municpality housing
+- Created a selenium bot to scrape data off Zillow.ca
+- Sourced municipality boundary files to create a municipality map
 
 
